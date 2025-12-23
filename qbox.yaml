@@ -299,11 +299,6 @@ tasks:
     src: https://github.com/qbox-project/qbx_scrapyard
 
   - action: download_github
-    dest: ./resources/[qbx]/qbx_towjob
-    ref: main
-    src: https://github.com/qbox-project/qbx_towjob
-
-  - action: download_github
     dest: ./resources/[qbx]/qbx_streetraces
     ref: main
     src: https://github.com/qbox-project/qbx_streetraces
